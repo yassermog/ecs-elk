@@ -1,1 +1,1 @@
-# ecs-elk
+# Elasticsearch, Logstash, Kibana (ELK) Docker image
